@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This site will showcase my projects and provide information about them."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Hello, World!\nWelcome to my Quarto website."
+  }
+]

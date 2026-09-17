@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+This site will showcase my projects and provide information about them.
