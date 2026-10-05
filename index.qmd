@@ -1,0 +1,9 @@
+---
+title: "Ankita Roy"
+---
+
+# Welcome
+
+Welcome to my professional portfolio.
+
+This website showcases my academic work, professional experience, and projects in business analytics, data science, and related areas.
