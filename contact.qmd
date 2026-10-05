@@ -1,7 +1,50 @@
 ---
 title: "Contact"
+toc: false
 ---
 
-# Contact
+## Let's Connect
 
-Please feel free to connect with me for professional and academic opportunities.
+Thank you for visiting my portfolio.
+
+I am interested in opportunities related to business analytics, market research, business intelligence, consumer insights, and data analytics.
+
+If you would like to discuss a professional opportunity, collaboration, or project, feel free to connect with me through any of the channels below.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .portfolio-card}
+
+### Email
+
+For professional inquiries:
+
+[royankita134@gmail.com](mailto:royankita134@gmail.com)
+
+:::
+
+::: {.g-col-12 .g-col-md-4 .portfolio-card}
+
+### LinkedIn
+
+Connect with me on LinkedIn:
+
+[View LinkedIn Profile](https://www.linkedin.com/in/ankita-roy-43940b12a/)
+
+:::
+
+::: {.g-col-12 .g-col-md-4 .portfolio-card}
+
+### GitHub
+
+Explore my projects and code:
+
+[View GitHub Profile](https://github.com/anroy-3007)
+
+:::
+
+:::
+
+## Location
+
+Seattle, Washington, USA

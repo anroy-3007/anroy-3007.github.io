@@ -1,5 +1,64 @@
 ---
 title: "About"
+toc: false
 ---
 
-This site will showcase my projects and provide information about them.
+# About Me
+
+I am currently pursuing an M.S. in Applied Business Analytics at Boston University Metropolitan College. My academic focus is on using data, analytics, and business intelligence to solve practical business problems and support better decision-making.
+
+Before beginning my graduate studies, I worked as a Market Research Analyst in the retail sector. My work involved analyzing market trends, competitive developments, consumer behavior, and industry dynamics. This experience strengthened my interest in combining business understanding with analytical methods.
+
+## Professional Interests
+
+My primary areas of interest include:
+
+- Business analytics
+- Business intelligence
+- Data visualization
+- Machine learning
+- Natural language processing
+- Cloud analytics
+- Strategic and market analysis
+
+I enjoy working on projects where data can be transformed into clear insights that help explain business performance, customer behavior, market opportunities, and operational trends.
+
+## Education
+
+**M.S. in Applied Business Analytics**  
+Boston University Metropolitan College
+
+**Post Graduate Program in Data Science and Business Analytics**  
+McCombs School of Business, The University of Texas at Austin
+
+## Professional Background
+
+Before graduate school, I worked in market research with a focus on the retail sector. My responsibilities included analyzing industry trends, evaluating market developments, developing forecasts, and preparing research to support business decision-making.
+
+That experience gave me a strong foundation in structured research, analytical thinking, and communicating complex findings clearly.
+
+## Career Goals
+
+My long-term goal is to work in roles that combine analytics, business intelligence, and strategic decision-making. I am particularly interested in opportunities where I can use data to improve business performance, support leadership decisions, and build scalable analytical solutions.
+
+## Technical Skills
+
+I continue to strengthen my technical skills through coursework and hands-on projects. My current tools and areas of experience include:
+
+- Python
+- R
+- SQL
+- Excel
+- Tableau
+- Power BI
+- PySpark
+- Machine learning
+- Natural language processing
+- Data visualization
+- Cloud analytics
+
+## Outside the Classroom
+
+Outside academics and professional work, I enjoy spending time with family, traveling, exploring new places and cultures, and creative activities.
+
+I am also curious about how technology and AI are changing the way people work and make decisions, which often inspires the kinds of projects and topics I like to explore.

@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - files/Ankita_Roy_CV.pdf
 
 website:
   title: "Ankita Roy"

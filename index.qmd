@@ -1,9 +1,124 @@
 ---
-title: "Ankita Roy"
+page-layout: full
+toc: false
 ---
 
-# Welcome
+::: {.hero-section}
 
-Welcome to my professional portfolio.
+# Ankita Roy
 
-This website showcases my academic work, professional experience, and projects in business analytics, data science, and related areas.
+## Market Research | Business Analytics | Consumer Insights
+
+Market research and analytics professional with 4+ years of experience in market sizing, forecasting, competitive intelligence, and consumer insights across retail and consumer sectors.
+
+I am currently pursuing an M.S. in Applied Business Analytics at Boston University, building on my professional research experience with modern analytics, business intelligence, machine learning, and cloud technologies.
+
+[View My Projects](projects.qmd){.btn .btn-primary .me-2}
+[Download CV](files/Ankita_Roy_CV.pdf){.btn .btn-outline-primary .me-2}
+[LinkedIn](https://www.linkedin.com/in/ankita-roy-43940b12a/){.btn .btn-outline-primary .me-2}
+[GitHub](https://github.com/anroy-3007){.btn .btn-outline-primary}
+
+:::
+
+## About Me
+
+My background combines market research, economics, and data analytics. Before graduate school, I worked in the retail and consumer sectors, conducting market research, developing forecasts, analyzing competitive dynamics, and translating complex information into decision-ready business insights.
+
+Today, I am expanding that foundation through graduate study and hands-on projects involving business analytics, data visualization, machine learning, natural language processing, and cloud analytics.
+
+[Learn more about me →](about.qmd)
+
+## Areas of Expertise
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .portfolio-card}
+
+### Market Research & Strategy
+
+Market sizing  
+Forecasting  
+Competitive intelligence  
+Consumer insights  
+Primary & secondary research  
+Company benchmarking
+
+:::
+
+::: {.g-col-12 .g-col-md-4 .portfolio-card}
+
+### Business Analytics & BI
+
+Python  
+SQL  
+Excel  
+Tableau  
+Power BI  
+Plotly  
+Data visualization
+
+:::
+
+::: {.g-col-12 .g-col-md-4 .portfolio-card}
+
+### Advanced Analytics
+
+Machine learning  
+Natural language processing  
+Statistical modeling  
+PySpark  
+Cloud analytics  
+AWS  
+LLM-based AI solutions
+
+:::
+
+:::
+
+## Featured Projects
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .portfolio-card}
+
+### Fashion & Apparel Job Market Analysis
+
+Analyzed analytics-related job opportunities in the fashion and apparel sector to understand employer demand, salaries, locations, work arrangements, and experience requirements.
+
+[Explore Project →](projects.qmd)
+
+:::
+
+::: {.g-col-12 .g-col-md-4 .portfolio-card}
+
+### Corporate 10-K Analysis Using NLP
+
+Applied NLP, document similarity, machine learning, and retrieval-based techniques to analyze and compare corporate disclosures.
+
+[Explore Project →](projects.qmd)
+
+:::
+
+::: {.g-col-12 .g-col-md-4 .portfolio-card}
+
+### Customer & Business Analytics
+
+Used customer and business data to identify behavioral patterns, meaningful segments, and opportunities for actionable decision-making.
+
+[Explore Project →](projects.qmd)
+
+:::
+
+:::
+
+## Published Research & Insights
+
+My professional research and analyst commentary have been cited by publications including **Quartz, LiveMint, Business of Fashion, Just Style, Yahoo News, and Retail Asia**.
+
+[View my professional background →](cv.qmd)
+
+## Let's Connect
+
+Interested in discussing analytics, market research, consumer insights, or business intelligence opportunities?
+
+[Contact Me](contact.qmd){.btn .btn-primary}
