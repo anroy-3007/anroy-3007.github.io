@@ -196,18 +196,11 @@
     "text": "Customer Segmentation & Business Analysis\n\nIdentifying customer value, behavior, and retention opportunities\nAnalyzed Northwind customer and transaction data to understand purchasing behavior, customer value, and differences across customer segments, with the goal of translating behavioral patterns into actionable business insights.\nTools: Python · Pandas · Customer Segmentation · Statistical Analysis · Data Visualization\nAnalysis included:\n\nCustomer purchasing behavior\nRevenue and customer value analysis\nCustomer segmentation\nAt-risk customer identification\nRelationship between customer metrics\nBusiness recommendations\n\nThe analysis identified distinct customer groups and highlighted customers showing potential retention risk. It also examined relationships between customer behavior and business value to support more targeted customer strategies and data-informed decision-making."
   },
   {
-    "objectID": "projects.html#business-intelligence-data-visualization",
-    "href": "projects.html#business-intelligence-data-visualization",
+    "objectID": "projects.html#explore-more",
+    "href": "projects.html#explore-more",
     "title": "Projects",
-    "section": "Business Intelligence & Data Visualization",
-    "text": "Business Intelligence & Data Visualization\n\nTurning business data into clear visual insights\nDeveloped dashboards and visual analyses designed to communicate complex information clearly and support business decision-making.\nTools: Tableau · Power BI · Excel · Python · Plotly\nKey areas:\n\nDashboard development\nBusiness performance analysis\nTrend identification\nInteractive visualization\nData storytelling\n\nThe focus is not only on performing analysis, but also on communicating findings in a form that business stakeholders can quickly understand and use."
-  },
-  {
-    "objectID": "projects.html#more-work",
-    "href": "projects.html#more-work",
-    "title": "Projects",
-    "section": "More Work",
-    "text": "More Work\nAdditional academic and analytics projects will be added as I continue expanding my portfolio.\nExplore my GitHub →"
+    "section": "Explore More",
+    "text": "Explore More\nAdditional projects, coursework, and analytics work are available on my GitHub profile.\nExplore my GitHub →"
   },
   {
     "objectID": "contact.html",
@@ -425,12 +418,5 @@
     "title": "About",
     "section": "",
     "text": "Outside academics and professional work, I enjoy spending time with family, traveling, exploring new places and cultures, and creative activities.\nI am also curious about how technology and AI are changing the way people work and make decisions, which often inspires the kinds of projects and topics I like to explore."
-  },
-  {
-    "objectID": "projects.html#explore-more",
-    "href": "projects.html#explore-more",
-    "title": "Projects",
-    "section": "Explore More",
-    "text": "Explore More\nAdditional projects, coursework, and analytics work are available on my GitHub profile.\nExplore my GitHub →"
   }
 ]
