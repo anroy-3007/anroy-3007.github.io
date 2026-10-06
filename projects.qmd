@@ -46,9 +46,7 @@ The analysis highlighted how opportunities in the selected sample were distribut
 
 :::
 
-::: {.g-col-12 .g-col-lg-6 .portfolio-card}
-
-::: {.g-col-12 .g-col-lg-6 .portfolio-card}
+::: {.grid}
 
 ::: {.g-col-12 .g-col-lg-6 .portfolio-card}
 
@@ -96,31 +94,10 @@ The analysis identified distinct customer groups and highlighted customers showi
 
 :::
 
-## Business Intelligence & Data Visualization
-
-### Turning business data into clear visual insights
-
-Developed dashboards and visual analyses designed to communicate complex information clearly and support business decision-making.
-
-**Tools:** Tableau · Power BI · Excel · Python · Plotly
-
-**Key areas:**
-
-- Dashboard development
-- Business performance analysis
-- Trend identification
-- Interactive visualization
-- Data storytelling
-
-The focus is not only on performing analysis, but also on communicating findings in a form that business stakeholders can quickly understand and use.
-
 :::
 
-:::
+## Explore More
 
-
-## More Work
-
-Additional academic and analytics projects will be added as I continue expanding my portfolio.
+Additional projects, coursework, and analytics work are available on my GitHub profile.
 
 [Explore my GitHub →](https://github.com/anroy-3007)
