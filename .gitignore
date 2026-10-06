@@ -2,4 +2,3 @@
 .venv/
 **/*.quarto_ipynb
 .DS_Store
-/.quarto/
