@@ -7,9 +7,9 @@ toc: false
 
 Thank you for visiting my portfolio.
 
-I am interested in opportunities related to business analytics, market research, business intelligence, consumer insights, and data analytics.
+I am interested in opportunities at the intersection of **business analytics, market research, business intelligence, and consumer insights**.
 
-If you would like to discuss a professional opportunity, collaboration, or project, feel free to connect with me through any of the channels below.
+If you would like to discuss a professional opportunity, collaboration, or analytics project, I would be happy to connect. You can reach me through any of the channels below.
 
 ::: {.grid}
 
@@ -47,4 +47,4 @@ Explore my projects and code:
 
 ## Location
 
-Seattle, Washington, USA
+Seattle, Washington
