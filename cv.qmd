@@ -5,34 +5,28 @@ toc: false
 
 ## Professional Summary
 
-I am a market research and analytics professional with 4+ years of experience in market sizing, forecasting, competitive intelligence, consumer insights, and syndicated research across retail and consumer sectors.
+Market research and analytics professional with 4+ years of experience in market sizing, forecasting, competitive intelligence, consumer insights, and syndicated research across retail and consumer sectors.
 
-My professional background combines research, economics, and business analytics. During my U.S. relocation and graduate studies, I expanded my technical skills in SQL, Python, Tableau, Power BI, cloud analytics, and machine learning.
+My background combines market research, economics, and business analytics, with experience translating complex market and consumer data into actionable business insights. I am currently expanding this foundation through graduate study and hands-on work in Python, SQL, business intelligence, data visualization, machine learning, and cloud analytics.
 
 ## Professional Experience
 
 ### Senior Analyst | GlobalData PLC
 **Hyderabad, India | Oct 2018 – Mar 2022**
 
-Led quantitative and qualitative market research across retail and consumer sectors, supporting strategic decision-making for global clients.
+Led quantitative and qualitative market research across retail and consumer sectors, developing market intelligence and strategic insights for global clients.
 
-Key responsibilities included:
+My work included market sizing and multi-year forecasting, competitive intelligence, company benchmarking, primary and secondary research, expert interviews, questionnaire design, and market opportunity analysis. I also contributed to syndicated research and translated complex market findings into client-ready insights and recommendations.
 
-- Market sizing and multi-year forecasting
-- Competitive intelligence and company benchmarking
-- Primary and secondary research
-- Expert interviews and questionnaire design
-- Market-entry and whitespace analysis
-- Syndicated research development
-- Client-ready insights and recommendations
-- Analyst commentary and published research
+My research and analyst commentary were cited by international publications including **Quartz, LiveMint, Business of Fashion, Just Style, Yahoo News, and Retail Asia**.
 
-My work and commentary were cited by international publications including Quartz, LiveMint, Business of Fashion, Just Style, Yahoo News, and Retail Asia.
 
 ### Research Associate | Global Market Estimates
 **Pune, India | Sep 2017 – Oct 2018**
 
-Conducted primary and secondary research across consumer markets, developed syndicated research reports, designed survey questionnaires, and created analytical models and client-ready deliverables.
+Conducted primary and secondary research across consumer markets, supporting the development of syndicated market research reports and client-focused analyses.
+
+My work included market and competitor research, survey questionnaire design, data analysis, market estimation, and the development of analytical models and research deliverables. I synthesized findings from multiple sources to identify market trends, growth opportunities, and competitive developments.
 
 ## Education
 
@@ -40,13 +34,13 @@ Conducted primary and secondary research across consumer markets, developed synd
 **M.S. in Applied Business Analytics**  
 *In Progress*
 
-Graduate study focused on applied analytics for business decision-making, data management, machine learning, cloud analytics, and visualization.
+Graduate study focused on applying analytics to business problems, including data management, machine learning, business intelligence, cloud analytics, and data visualization.
 
 ### McCombs School of Business, The University of Texas at Austin
 **Post Graduate Program in Data Science & Business Analytics**  
 *Completed 2025*
 
-Coursework included Python, statistics, machine learning, SQL, and business analytics applications.
+Coursework included Python, statistical analysis, machine learning, SQL, data visualization, and business analytics.
 
 ### City University of Seattle
 **Graduate Certificate in Data Analytics**  
@@ -76,26 +70,29 @@ Company benchmarking
 :::
 
 ::: {.g-col-12 .g-col-md-4 .portfolio-card}
-### Data & Analytics
+### Business Intelligence & Data
 
 Python  
 SQL / MySQL  
 Excel  
 Tableau  
 Power BI  
+Plotly  
 SPSS  
 Qualtrics
 :::
 
 ::: {.g-col-12 .g-col-md-4 .portfolio-card}
-### Advanced Analytics
+### Advanced Analytics & Cloud
 
 Machine learning  
+Natural language processing  
 Statistical modeling  
 Econometrics  
-Cloud analytics  
+PySpark  
 AWS  
-LLM-based AI solutions
+Cloud analytics  
+Retrieval-augmented generation (RAG)
 :::
 
 :::
@@ -108,17 +105,12 @@ LLM-based AI solutions
 
 ## Publications & Media Citations
 
-My research and commentary have been cited by:
+During my work in market research, my analysis and analyst commentary were referenced by international business, retail, and news publications, including **Quartz, LiveMint, Business of Fashion, Just Style, Yahoo News, and Retail Asia**.
 
-- Quartz
-- LiveMint
-- Business of Fashion
-- Just Style
-- Yahoo News
-- Retail Asia
+These citations covered market trends, consumer behavior, retail developments, and industry outlooks.
 
 ## Download My CV
 
-For a detailed overview of my professional experience, education, technical skills, certifications, and published work, download my complete CV below.
+For additional details on my professional experience, education, technical skills, certifications, and research background:
 
 [Download CV](files/Ankita_Roy_CV.pdf){.btn .btn-primary download="Ankita_Roy_CV.pdf"}
